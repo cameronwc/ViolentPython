@@ -1,0 +1,6 @@
+admin:password
+admin:admin
+admin:12345
+root:secret
+pi:raspberry
+guest:guest

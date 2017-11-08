@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+downloadImage	../imgMeta.py	/^def downloadImage(imgTag):$/;"	kind:function	line:18
+findImages	../imgMeta.py	/^def findImages(url):$/;"	kind:function	line:10
+imgMeta.py	../imgMeta.py	1;"	kind:file	line:1
+main	../imgMeta.py	/^def main():$/;"	kind:function	line:51
+main	../pdfMeta.py	/^def main():$/;"	kind:function	line:12
+pdfMeta.py	../pdfMeta.py	1;"	kind:file	line:1
+printMeta	../pdfMeta.py	/^def printMeta(fileName):$/;"	kind:function	line:5
+testForExif	../imgMeta.py	/^def testForExif(imgFileName):$/;"	kind:function	line:32
